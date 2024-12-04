@@ -58,9 +58,13 @@ Configure as variáveis de ambiente necessárias, como as credenciais do banco d
 
 Deploy:
 Siga as instruções no Render para implantar sua aplicação.
-Uso
-Após iniciar a aplicação, você pode acessar a API em http://localhost:8080. Utilize ferramentas como Postman para testar os endpoints CRUD.
-Endpoints principais
+
+**Uso**
+Após iniciar a aplicação, você pode acessar a API em http://localhost:8080. 
+Utilize ferramentas como Postman para testar os endpoints CRUD.
+
+**Endpoints principais**
+
 GET /api/funcionarios - Listar todos os funcionários
 POST /api/funcionarios - Criar um novo funcionário
 GET /api/funcionarios/{id} - Obter detalhes de um funcionário
