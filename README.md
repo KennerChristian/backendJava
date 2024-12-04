@@ -64,8 +64,8 @@ Após iniciar a aplicação, você pode acessar a API em http://localhost:8080.
 Utilize ferramentas como Postman para testar os endpoints CRUD.  
 
 **Endpoints principais**
-GET /api/funcionarios - Listar todos os funcionários  
-POST /api/funcionarios - Criar um novo funcionário 
-GET /api/funcionarios/{id} - Obter detalhes de um funcionário  
-PUT /api/funcionarios/{id} - Atualizar dados de um funcionário  
-DELETE /api/funcionarios/{id} - Remover um funcionário  
+GET /api/funcionarios - Listar todos os funcionários   
+POST /api/funcionarios - Criar um novo funcionário   
+GET /api/funcionarios/{id} - Obter detalhes de um funcionário    
+PUT /api/funcionarios/{id} - Atualizar dados de um funcionário    
+DELETE /api/funcionarios/{id} - Remover um funcionário    
